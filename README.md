@@ -4,6 +4,13 @@ A fully responsive **TinDog website clone**, built using **Bootstrap**, **HTML**
 This project was created to practice modern web development with a focus on layout, styling, and responsiveness.
 
 ---
+# 🐶 Tindog - Tinder for Dogs
+
+[![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Bootstrap-blue?logo=bootstrap)](https://getbootstrap.com/)  
+[![Made with HTML](https://img.shields.io/badge/Made%20with-html-blue?logo=bootstrap)](https://gethtml.com/)  
+[![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?logo=bootstrap)](https://getCSS.com/)  
+
+
 
 ## 🔗 Live Demo
 
