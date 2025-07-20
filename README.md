@@ -1,23 +1,20 @@
 # 🐶 TinDog – Tinder for Dogs (Clone)
 
-A fully responsive **TinDog website clone**, built using **Bootstrap**, **HTML**, and **CSS**.  
+A fully responsive **TinDog website clone**, built using :
+ - [![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Bootstrap-blue?logo=bootstrap)](https://getbootstrap.com/)  
+ - [![Made with HTML](https://img.shields.io/badge/Made%20with-html-blue?logo=bootstrap)](https://gethtml.com/)  
+ - [![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?logo=bootstrap)](https://getCSS.com/)  
 This project was created to practice modern web development with a focus on layout, styling, and responsiveness.
 
 ---
-# 🐶 Tindog - Tinder for Dogs
-
-[![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Bootstrap-blue?logo=bootstrap)](https://getbootstrap.com/)  
-[![Made with HTML](https://img.shields.io/badge/Made%20with-html-blue?logo=bootstrap)](https://gethtml.com/)  
-[![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?logo=bootstrap)](https://getCSS.com/)  
-
 
 
 ## 🔗 Live Demo
 
 👉 [Visit the Live Site](https://tindogcloneboostrap.netlify.app/)
- -depoly using netlify
+ - depoly using netlify
 
-👉 [Visit the Live Site]()
+👉 [Visit the Live Site](https://akanksha0217.github.io/Tindog/)
 - deploy in git hub
  
 
@@ -48,7 +45,7 @@ tindog-clone/
 ├── index.html
 ├── style.css
 ├── images/
-│ └── (all images used in the website)
+│ 
 
 ## 💡 What I Learned
 
